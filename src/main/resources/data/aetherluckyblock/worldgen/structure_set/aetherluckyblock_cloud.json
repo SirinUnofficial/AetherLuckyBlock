@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "aetherluckyblock:aetherluckyblock_cloud",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 16,
+        "separation": 8,
+        "salt": 1145141919
+    }
+}

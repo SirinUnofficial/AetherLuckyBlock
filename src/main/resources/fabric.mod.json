@@ -1,0 +1,34 @@
+{
+    "schemaVersion": 1,
+    "id": "aetherluckyblock",
+    "version": "${version}",
+    "name": "Aether Lucky Block",
+    "description": "MyLuckyBlock in The Aether",
+    "authors": [],
+    "contact": {},
+    "license": "MIT",
+    "icon": "assets/aetherluckyblock/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "client": [
+            "io.github.sycamore0.aetherluckyblock.client.AetherLuckyBlockClient"
+        ],
+        "main": [
+            "io.github.sycamore0.aetherluckyblock.AetherLuckyBlock"
+        ]
+    },
+    "custom": {
+        "modmenu": {
+            "parent": "myluckyblock"
+        }
+    },
+    "depends": {
+        "fabricloader": ">=${loader_version}",
+        "fabric": "*",
+        "minecraft": ">=1.21 <=1.21.1",
+        "myluckyblock": ">=1.1.0"
+    },
+    "suggests": {
+        "aether": "*"
+    }
+}

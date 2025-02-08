@@ -1,0 +1,17 @@
+{
+    "name": "Aether Unlucky Pack",
+    "version": "1.0.0",
+    "info": "some unlucky events",
+    "random_events": [
+        {
+            "id": 1,
+            "create_explosions": [
+                {
+                    "power": 100,
+                    "create_fire": true,
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}
