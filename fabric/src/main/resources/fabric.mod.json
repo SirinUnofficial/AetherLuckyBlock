@@ -8,8 +8,9 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "https://modrinth.com/mod/aetherluckyblock",
+        "sources": "https://github.com/SirinUnofficial/AetherLuckyBlock",
+        "issues": "https://github.com/SirinUnofficial/AetherLuckyBlock/issues"
     },
     "license": "${license}",
     "icon": "assets/aetherluckyblock/icon.png",
