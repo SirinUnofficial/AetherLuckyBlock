@@ -1,0 +1,1045 @@
+{
+    "name": "Aether Equipments",
+    "version": "1.0.0",
+    "info": "Aether Equipments Event Pack",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "aether:agility_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "aether:blue_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "aether:candy_cane_sword",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 4,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:candy_cane",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "aether:chainmail_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "aether:cloud_staff",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "aether:cold_parachute",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "aether:diamond_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "aether:enchanted_dart_shooter",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:enchanted_dart",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 8,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "drop_items": [
+                {
+                    "id": "aether:flaming_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "drop_items": [
+                {
+                    "id": "aether:golden_dart",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 8,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:golden_dart_shooter",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "drop_items": [
+                {
+                    "id": "aether:golden_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "drop_items": [
+                {
+                    "id": "aether:golden_parachute",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "drop_items": [
+                {
+                    "id": "aether:golden_pendant",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:golden_ring",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_axe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:gravitite_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:gravitite_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:gravitite_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_hoe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:gravitite_shovel",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_pickaxe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "drop_items": [
+                {
+                    "id": "aether:gravitite_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "drop_items": [
+                {
+                    "id": "aether:hammer_of_kingbdogz",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "drop_items": [
+                {
+                    "id": "aether:holy_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "drop_items": [
+                {
+                    "id": "aether:holystone_axe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "drop_items": [
+                {
+                    "id": "aether:holystone_hoe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:holystone_shovel",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "drop_items": [
+                {
+                    "id": "aether:holystone_pickaxe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "drop_items": [
+                {
+                    "id": "aether:holystone_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "drop_items": [
+                {
+                    "id": "aether:ice_pendant",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "drop_items": [
+                {
+                    "id": "aether:ice_ring",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "drop_items": [
+                {
+                    "id": "aether:invisibility_cloak",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "drop_items": [
+                {
+                    "id": "aether:iron_bubble",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "drop_items": [
+                {
+                    "id": "aether:iron_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "drop_items": [
+                {
+                    "id": "aether:iron_pendant",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "drop_items": [
+                {
+                    "id": "aether:iron_ring",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "drop_items": [
+                {
+                    "id": "aether:leather_gloves",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "drop_items": [
+                {
+                    "id": "aether:lightning_knife",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 4,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "drop_items": [
+                {
+                    "id": "aether:lightning_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "drop_items": [
+                {
+                    "id": "aether:nature_staff",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "drop_items": [
+                {
+                    "id": "aether:neptune_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:neptune_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:neptune_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:neptune_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "drop_items": [
+                {
+                    "id": "aether:neptune_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "drop_items": [
+                {
+                    "id": "aether:netherite_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "drop_items": [
+                {
+                    "id": "aether:obsidian_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:obsidian_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:obsidian_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:obsidian_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "drop_items": [
+                {
+                    "id": "aether:obsidian_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "drop_items": [
+                {
+                    "id": "aether:phoenix_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:phoenix_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:phoenix_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:phoenix_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "drop_items": [
+                {
+                    "id": "aether:phoenix_bow",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "drop_items": [
+                {
+                    "id": "aether:phoenix_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "drop_items": [
+                {
+                    "id": "aether:pig_slayer",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "drop_items": [
+                {
+                    "id": "aether:poison_dart_shooter",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:poison_dart",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 8,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "drop_items": [
+                {
+                    "id": "aether:red_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "drop_items": [
+                {
+                    "id": "aether:sentry_boots",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "drop_items": [
+                {
+                    "id": "aether:shield_of_repulsion",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "drop_items": [
+                {
+                    "id": "aether:skyroot_axe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:skyroot_hoe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:skyroot_pickaxe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:skyroot_shovel",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:skyroot_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_axe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:valkyrie_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:valkyrie_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:valkyrie_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_lance",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_hoe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:valkyrie_shovel",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "drop_items": [
+                {
+                    "id": "aether:valkyrie_pickaxe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "drop_items": [
+                {
+                    "id": "aether:vampire_blade",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "drop_items": [
+                {
+                    "id": "aether:white_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "drop_items": [
+                {
+                    "id": "aether:yellow_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_axe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_gloves",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_hoe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:zanite_shovel",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_boots",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:zanite_chestplate",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:zanite_helmet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "aether:zanite_leggings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_pendant",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_pickaxe",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_ring",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "drop_items": [
+                {
+                    "id": "aether:zanite_sword",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "drop_items": [
+                {
+                    "id": "aether:swet_cape",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}
