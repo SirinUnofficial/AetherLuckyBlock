@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "aetherluckyblock:block/aether_lucky_block"
-    }
-}
