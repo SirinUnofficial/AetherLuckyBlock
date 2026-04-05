@@ -11,7 +11,7 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
     modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
 
-    implementation files('../libs/myluckyblock-fabric-1.21-2.1.0-dev.jar')
+    implementation files('../libs/myluckyblock-fabric-1.21-2.7.2-dev.jar')
 }
 
 loom {

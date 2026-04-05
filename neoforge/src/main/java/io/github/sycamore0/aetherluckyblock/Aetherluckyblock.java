@@ -1,7 +1,5 @@
 package io.github.sycamore0.aetherluckyblock;
 
-
-import io.github.sycamore0.myluckyblock.CommonClass;
 import io.github.sycamore0.myluckyblock.block.LuckyBlock;
 import io.github.sycamore0.myluckyblock.item.ModItemGroups;
 import net.minecraft.world.item.BlockItem;
@@ -23,7 +21,7 @@ public class Aetherluckyblock {
     public static final DeferredHolder<Block, Block> AETHER_LUCKY_BLOCK;
 
     static {
-        AETHER_LUCKY_BLOCK = BLOCKS.register(AETHER_LUCKY_BLOCK_ID, () -> new LuckyBlock(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PINK).strength(0.5F).explosionResistance(5000000.0F), Constants.EVENT_PACK_ID, false));
+        AETHER_LUCKY_BLOCK = BLOCKS.register(AETHER_LUCKY_BLOCK_ID, () -> new LuckyBlock(BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PINK).strength(0.5F).explosionResistance(5000000.0F), Constants.EVENT_PACK_GROUP, false));
         ITEMS.register(AETHER_LUCKY_BLOCK_ID, () -> new BlockItem(AETHER_LUCKY_BLOCK.get(), new Item.Properties()));
     }
 
@@ -31,7 +29,6 @@ public class Aetherluckyblock {
         BLOCKS.register(eventBus);
         ITEMS.register(eventBus);
         eventBus.addListener(Aetherluckyblock::buildCreativeTabContent);
-        CommonClass.addEventPackId(Constants.EVENT_PACK_ID);
     }
 
     public static void buildCreativeTabContent(BuildCreativeModeTabContentsEvent event) {

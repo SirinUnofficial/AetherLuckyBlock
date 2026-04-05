@@ -37,7 +37,7 @@ neoForge {
 }
 
 dependencies {
-    implementation files('../libs/myluckyblock-neoforge-1.21-2.1.0.jar')
+    implementation files('../libs/myluckyblock-neoforge-1.21-2.7.2.jar')
 }
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
